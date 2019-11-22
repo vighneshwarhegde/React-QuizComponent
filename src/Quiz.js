@@ -7,7 +7,7 @@ class Quiz extends Component{
 
     constructor(props){
         super(props)
-        this.state = {quiz_poistion: 1}
+        this.state = {quiz_poistion: 1 }
     }
 
     render(){
